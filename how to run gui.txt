@@ -1,0 +1,16 @@
+Commands
+
+pip install virtualenv
+virtualenv env
+env\Scripts\activate
+
+pip install django
+pip install pillow
+pip install numpy
+pip install opencv-python
+pip install tensorflow
+pip install keras
+
+
+to Run
+py manage.py runserver
